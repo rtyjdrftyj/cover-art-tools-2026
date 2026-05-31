@@ -1,0 +1,10 @@
+tool_name,category,model_focus,text_rendering,default_output,commercial_license,notes
+CoverArtGenerator.ai,Music-Trained Cover Art Tool,Music-trained prompts,In-image title and artist name,Square HD,Included,"Built for musicians, Spotify and vinyl ready"
+Artificial Studio,Music-Trained Cover Art Tool,Album cover workflow,Supported,Square,Included,"Takes title, artist, genre, style as separate inputs"
+Daft Art,Music-Trained Cover Art Tool,Album cover workflow,Supported,Square,Paid tier,"Marketed specifically as album cover generator"
+Fotor,General Image Generator,General text-to-image,Limited,Configurable,Included on paid tier,"Album cover preset on top of general model"
+NightCafe,General Image Generator,General text-to-image,Limited,Configurable,Varies by plan,"Community-driven, broad style library"
+OpenArt,General Image Generator,General text-to-image,Limited,Free on basic models,Varies,"Free unlimited on basic models"
+Pixelcut,General Image Generator,General text-to-image,Limited,Configurable,Included,"Describe vibe, genre, or theme"
+BasedLabs,General Image Generator,General text-to-image,Limited,Configurable,Included,"Free tier available"
+Neural Frames,General Image Generator,Experimental styles,Limited,Configurable,Included,"Known for unusual, experimental aesthetics"
